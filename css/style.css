@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}  
+
+.list-navbar{
+    display: flex; 
+   list-style: none;   
+
+
+} 
+.nav-cont{
+    display: flex; 
+   
+}  
+.nav-stikky{
+    position: fixed;   
+    top: 0; 
+    z-index: 1;
+}
+.list{
+    margin: 10px; 
+    font-size: 1.3rem; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+
+.btn-navbar{   
+
+    padding: 10px; 
+    font-style: bolder;  
+    font-size: 18px;  
+    color: red; 
+} 
+.btn{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+.btn-signIn{  
+    border-radius: 20px; 
+    width: 100px; 
+    font-weight: 500;
+
+} 
+.img-banner{
+    width: 100%; 
+    height: 70%;
+} 
+.btn-section{
+    display: flex; 
+} 
+.btn-sectionFirst{
+    border-color: blue; 
+    background-color: blue; 
+    width: 150px;
+} 
+.text-red{
+    color: red;
+} 
+.btn-section-width{
+    width: 150px;
+} 
+.relative{
+    position: relative; 
+ 
+} 
+.absolute{
+    position: absolute; 
+  
+   
+} 
+
+.form-group{
+    width: 50%; 
+  
+}  
+
+.left{
+    margin-left: 10em;
+} 
+.form-down{
+    margin-top: 7em; 
+    box-shadow: -5px -5px 10px -10px black;
+} 
+.font-size-dark{
+    font-family: 'Mukta', sans-serif;
+font-family: 'Roboto', sans-serif;
+} 
+.card-title{
+    font-weight: bold;
+} 
+.btn-submit{
+    font-weight: 500;
+} 
+.shadow-card{
+    box-shadow: -5px 5px 5px 1px rgb(169,169,169);
+} 
+.section-card-start{
+    margin-top: 5em; 
+}
+.full-section-bg{
+     background-color: rgb(240,243,246);  
+    width: 100%; 
+
+} 
+
+.section-text{
+    font-weight: bold; 
+    line-height: 1px; 
+} 
+.third-section-heading{
+    line-height: 10px;
+} 
+.third-section-para{
+    margin-top: 1em;
+} 
+.third-section-image{
+    width: 100%;
+} 
+.third-section-btn{
+    display: flex;
+} 
+.btn-third-section-width{
+    width: 30%;
+} 
+.fourth-section-contact{
+    width: 100%; 
+    background-color: black;
+} 
+.text-color-contact{
+    color: darkgoldenrod;
+} 
+.fourth-section-heading{
+    line-height: 1px ; 
+    color: gainsboro;
+} 
+.third-section-top-heading{
+    font-size: 25px;
+}  
+.fifth-section-heading{
+    line-height: 1em; 
+    font-size: 2em;
+} 
+.accordion-button{
+    border: 1px solid black;
+} 
+.sixth-section-heading{
+    line-height: 1em; 
+    font-size: 2em;
+} 
+
+
+.sixth-Section-relative{
+    position: relative;
+} 
+.sixth-section-absolute{
+    position: absolute;
+} 
+.sixth-counter{
+    display: flex; 
+    margin-left: 10%;
+   
+} 
+
+.counter-image{
+   /* background-color: pink;  */ 
+border: 2px solid goldenrod; 
+border-width: 5px;
+padding: 35px; 
+border-radius: 50%; 
+/* margin-left: 6em;  */
+} 
+
+
+.sixth-counter-absolute{
+    position: absolute; 
+    top: 4em; 
+
+  
+    
+} 
+.sixth-counter-relative{
+    position: relative;
+} 
+.row-counter-content{
+    position: absolute; 
+    bottom: 0; 
+    margin-bottom: -5em;  
+    margin-left: 2em;
+    text-align: center;     
+} 
+.row-counter-content1{  
+    position: absolute; 
+    bottom: 0; 
+    margin-bottom: -5em;  
+    text-align: center;   
+    margin-left: 19em;     
+} 
+.row-counter-content3{ 
+    position: absolute; 
+    bottom: 0; 
+    margin-bottom: -5em;  
+    text-align: center;   
+    margin-left: 33em;     
+
+}
+.row-counter-content4{ 
+    position: absolute; 
+    bottom: 0; 
+    margin-bottom: -5em;  
+    text-align: center;   
+    margin-left: 47em;
+    
+} 
+.image-seventh-section{
+    height: 82%;
+} 
+.client-image-border{
+    border: 1px solid grey; 
+   
+}
+.client-heading{
+    font-weight: bold; 
+    font-size: 3em; 
+  margin-bottom: 20px;
+} 
+.round_con{
+    margin: auto;
+}
+.rounds{
+    display: flex; 
+    gap: 5px;
+    justify-content: center;
+}
+
+.rou1{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%; 
+    background-color: goldenrod;  
+   
+}
+.rou2{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: blue; 
+  
+}
+.rou3{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: goldenrod; 
+} 
+.rou4{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: goldenrod;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer section css start here */  
+.footer-section{
+    background-color: black; 
+    width: 100%;
+} 
+.social-media-icon{
+    margin-top: 25px;
+}   
+.text-small {
+    font-size: 0.9rem;
+  }  
+  .social-media-icon-images{ 
+   border: 2px solid white; 
+   border-radius: 5px;  
+   padding: 4px;
+
+
+  } 
+  .footer-content{
+    list-style: none;
+  } 
+
+  .fot{
+    position: relative;
+  }
+#footer::before{ 
+    content: ''; 
+    background: url('../images/footer-bg.jpg')  no-repeat center center/cover; 
+    position: absolute; 
+    opacity: 1; 
+    /* top: 0px; 
+    left: 0px;  */
+    width: 100%; 
+    height: 100%; 
+    z-index: -1; 
+} 
+.footer-call{
+    display: flex;
+}
+
+
+
+/* footer section css end here */
